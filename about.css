@@ -1,0 +1,18 @@
+.imginfo{
+  width: 50%;
+}
+#info{
+    padding-top: 170px;
+    background-color:violet;
+}
+.textinfo0 h2{
+font-family: sans-serif;
+font-size: 30px;
+font-variant-caps:normal;
+color:white;
+text-shadow: 1px 5px black;;
+}
+.imginfo p{
+font-size: 20px;
+padding-top: 20px;
+}
